@@ -1,3 +1,5 @@
+Cenero's fork of the screen capture lite used as a dependaency in the VcPanel.Agent application to capture images
+
 <img src="Logotype primary.png" width="60%" height="60%" />
 
 <p>Above Logo created by https://github.com/mansya</p>
